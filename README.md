@@ -1,5 +1,5 @@
 # rapid_transit
-website for moving company, firstrepository
+website for moving company, first repository
 
 <!DOCTYPE html>
 <html lang="ru">
